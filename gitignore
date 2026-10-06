@@ -1,0 +1,16 @@
+# NetBeans build output
+/build/
+/build-exe/
+/nbproject/private/
+nbproject/private/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+*.iml
+.idea/
+
+# Logs
+*.log
